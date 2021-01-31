@@ -1,0 +1,9 @@
+.vs
+Debug
+Release
+bin
+obj
+*.nupkg
+*.log
+src/NativeHelpers.vcxproj.user
+src/NativeHelpers.vcxproj.filters

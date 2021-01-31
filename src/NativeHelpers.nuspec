@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<metadata>
+		<id>Wpf.NativeHelpers</id>
+		<title>WPF Native Helpers for .Net 5</title>
+		<version>1.0.1</version>
+		<authors>Microsoft</authors>
+		<owners>The Sharp Ninja</owners>
+		<description>DPI Aware Window and other utilities.</description>
+		<projectUrl>http://www.github.com</projectUrl>
+		<tags>WPF</tags>
+		<copyright>2021</copyright>
+		<dependencies>
+			<group targetFramework="net5.0-windows" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file target="lib\net5.0-windows\NativeHelpers.deps.json" src="..\Debug\NativeHelpers.deps.json" />
+		<file target="lib\net5.0-windows\NativeHelpers.dll" src="..\Debug\NativeHelpers.dll" />
+		<file target="lib\net5.0-windows\NativeHelpers.pdb" src="..\Debug\NativeHelpers.pdb" />
+	</files>
+</package>
