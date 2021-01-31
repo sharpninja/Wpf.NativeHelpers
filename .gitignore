@@ -7,3 +7,4 @@ obj
 *.log
 src/NativeHelpers.vcxproj.user
 src/NativeHelpers.vcxproj.filters
+publish.ps1

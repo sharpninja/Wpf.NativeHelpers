@@ -3,11 +3,12 @@
 	<metadata>
 		<id>Wpf.NativeHelpers</id>
 		<title>WPF Native Helpers for .Net 5</title>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<authors>Microsoft</authors>
 		<owners>The Sharp Ninja</owners>
 		<description>DPI Aware Window and other utilities.</description>
-		<projectUrl>http://www.github.com</projectUrl>
+		<projectUrl>https://github.com/sharpninja/Wpf.NativeHelpers</projectUrl>
+		<repository type="git" url="https://github.com/sharpninja/Wpf.NativeHelpers"/>
 		<tags>WPF</tags>
 		<copyright>2021</copyright>
 		<dependencies>
